@@ -1,0 +1,30 @@
+.boxQuestion {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.boxAdd {
+    width: 80%;
+    min-height: 80px;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px black;
+}
+h3 {
+    font-weight: bold;
+}
+
+span {
+    font-weight: 100;
+}
+
+.ansUser {
+    margin-left: 0.2em;
+}
+
+h1 {
+    margin-top: 0.4em;
+}

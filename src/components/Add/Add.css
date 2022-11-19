@@ -1,0 +1,21 @@
+textarea {
+    min-width: 200px;
+    max-width: 320px;
+    min-height: 70px;
+    max-height: 120px;
+    margin: 0.2em 0.4em;
+}
+
+input {
+    margin: 0.2em 0.4em;
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: row;
+
+}
+
+h1 {
+    font-weight: bold;
+}
